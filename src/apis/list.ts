@@ -4,7 +4,7 @@ import {ResType} from './shared.ts';
 
 // 接口类型
 
-type ChannelItem = {
+export type ChannelItem = {
     id: number;
     name: string;
 }
